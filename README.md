@@ -34,5 +34,5 @@ Para el procesamiento de los datos se usa el script process.py que tiene todas l
 Hemos conseguido hacer un breve análisis de las canciones que han tenido más éxito en Spotify y por tanto entre la gente que disfruta de escuchar música, hemos podido ver las diferentes tendencias y como es principalmente el mismo tipo de música el que acaba triunfando. Pero aparte, también nos ha servido para lograr comprender mejor el funcionamiento del big data y cloud así como de los dataframes que ha sido lo que hemos usado principalmente.
 
 ## Autores
-Diego Flores Simón
+Diego Flores Simón,
 Álvaro Gómez Tejedor
