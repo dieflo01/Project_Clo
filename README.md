@@ -1,7 +1,13 @@
 # Proyecto Cloud y Big Data: Análisis del top de Spotify desde 2017
 
 ## Indice
-
+1. Descripción del problema
+2. Necesidad de Big Data y Cloud
+3. Descripción de los datos
+4. Descripción del proyecto
+5. Diseño del software
+6. Uso
+7. Conclusiones
 
 ## 1. Descripción del problema
 En el mundo actual, donde la demanda y oferta de música crecen a un ritmo acelerado, los datos juegan un papel crucial para comprender tendencias, preferencias y comportamientos en la industria musical. Queremos analizar las diferentes estadísticas relacionadas con el Top 200 de Spotify desde 2017 hasta 2021.
