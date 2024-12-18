@@ -1,0 +1,6 @@
+year ,unique_songs ,total_streams    ,songs_rank_1 ,avg_danceability   ,avg_speechiness     ,avg_acousticness    ,avg_valence        ,top_songs
+2017 ,       18608 ,1.74449522812E11 ,         262 ,0.6786141780191837 ,0.10170573300885564 ,0.213021278083062   ,0.5221832112695666 ,"Shape of You, Despacito - Remix, Despacito (Featuring Daddy Yankee), Something Just Like This, Unforgettable"
+2018 ,       23032 ,2.05209554703E11 ,         490 ,0.6864105575452502 ,0.10334007626297215 ,0.23450140499355515 ,0.5074225819560744 ,"God's Plan, SAD!, In My Feelings, Psycho (feat. Ty Dolla $ign), Better Now"
+2019 ,       25958 ,2.33449275816E11 ,         498 ,0.6883022549596046 ,0.11360588851132843 ,0.27145762338949675 ,0.5209121166380114 ,"Señorita, bad guy, Sunflower - Spider-Man: Into the Spider-Verse, 7 rings, I Don't Care (with Justin Bieber)"
+2020 ,       30244 ,2.53350319873E11 ,         727 ,0.6936139581293032 ,0.11541925062795987 ,0.274845636051428   ,0.5332804013805426 ,"Blinding Lights, Dance Monkey, Roses - Imanbek Remix, Don't Start Now, The Box"
+2021 ,       30757 ,2.56458932138E11 ,         682 ,0.6839199494206163 ,0.10610572507754727 ,0.27409055690108786 ,0.5379743525218971 ,"STAY (with Justin Bieber), drivers license, MONTERO (Call Me By Your Name), good 4 u, Levitating (feat. DaBaby)"
