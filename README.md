@@ -38,6 +38,7 @@ Para el procesamiento de los datos se usa el script process.py que tiene todas l
 
 ## 7. Conclusiones
 Hemos conseguido hacer un breve análisis de las canciones que han tenido más éxito en Spotify y por tanto entre la gente que disfruta de escuchar música, hemos podido ver las diferentes tendencias y como es principalmente el mismo tipo de música el que acaba triunfando. Pero aparte, también nos ha servido para lograr comprender mejor el funcionamiento del big data y cloud así como de los dataframes que ha sido lo que hemos usado principalmente.
+![Top artistas mas escuchados](Top artistas mas escuchados.png)
 
 ## Autores
 Diego Flores Simón,
